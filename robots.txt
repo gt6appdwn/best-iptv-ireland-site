@@ -1,0 +1,9 @@
+# Robots.txt for Best IPTV Ireland
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /checkout/thank-you/
+
+# Sitemap location
+Sitemap: https://best-iptv-ireland.shop/sitemap.xml
